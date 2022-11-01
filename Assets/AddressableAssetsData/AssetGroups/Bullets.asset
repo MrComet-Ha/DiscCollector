@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bullets
+  m_EditorClassIdentifier: 
+  m_GroupName: Bullets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 451254e33c2796945991e4df15c03150
+  m_SerializeEntries:
+  - m_GUID: f9d146b9c61e56c4aaa945ed5640c7f8
+    m_Address: Bullet_Player_Melee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Object
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ab00c39c020ff634bab5cd37b6d327c7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1a1c1921f92b67e41b9db984d4db3aba, type: 2}
+    - {fileID: 11400000, guid: 51c7e9c9d51c04b4990b8d405c5e4a0f, type: 2}
